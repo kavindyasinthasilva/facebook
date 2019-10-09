@@ -1,27 +1,22 @@
 body{ background: linear-gradient(to bottom right, white, #bcbdc4);
-height:4000px;}
+height:4000px;
+font-family: 'Ubuntu', sans-serif;}
 a{color:white;
 text-decoration:none;}
 p1{color:#1b6192;
-font-family:verdana;
 font-size:15px;}
 p2{color:#868383;
-font-family:verdana;
 font-size:15px;}
 p3{color:#1b6192;
-font-family:verdana;
 font-size:15px;
 font-weight:bold;}
 p4{color:#868383;
-font-family:verdana;
 font-size:10px;}
 p6{color:#1b6192;
-font-family:verdana;
 font-size:15px;
 word-spacing:10px;}
 p7{font-size:20px;
-color:#868383;
-font-family:verdana;}
+color:#868383;}
 #commentprof{top:785px;
 left:10px;
 width:30px;
@@ -49,7 +44,6 @@ top:0;
 left:0;
 color:white;
 z-index:7;
-font-family:verdana;
 -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
  
 }
@@ -62,7 +56,6 @@ top:0;
 left:0;
 color:white;
 z-index:7;
-font-family:verdana;
  
 }
 #searchbox{width:500px;
@@ -86,23 +79,19 @@ height:40px;
 #profilearea1{top:20px;
 left:830px;
 height:20px;
-font-size:20px;
-font-family:verdana;}
+font-size:20px;}
 #profilearea2{top:10px;
 left:1150px;
 height:30px;
-font-size:30px;
-font-family:verdana;}
+font-size:30px;}
 #profilearea3{top:10px;
 left:900px;
 height:30px;
-font-size:30px;
-font-family:verdana;}
+font-size:30px;}
 #profilearea4{top:20px;
 left:920px;
 height:20px;
-font-size:20px;
-font-family:verdana;}
+font-size:20px;}
 #findf{top:15px;
 left:1015px;
 height:30px;}
@@ -159,7 +148,6 @@ height:645px;
 }
 #intro1{top:40px;
 left:100px;
-font-family:verdana;
 font-size:30px;
 color:#142170;
 height:75px;
@@ -167,7 +155,6 @@ width:550px;
 }
 #intro2{top:40px;
 left:700px;
-font-family:verdana;
 font-size:50px;
 color:#142170;
 width:500px;
@@ -179,7 +166,6 @@ height:250px;
 width:550px;}
 #intro3{top:100px;
 left:700px;
-font-family:verdana;
 font-size:20px;
 color:#142170;
 height:50px;
@@ -193,7 +179,6 @@ font-size:20px;
 }
 #form3{top:150px;
 left:700px;
-font-family:verdana;
 font-size:20px;
 color:#142170;
 width:450px;
@@ -258,7 +243,6 @@ left:30px;
 position:absolute;
 width:200px;
 height:740px;
-font-family:verdana;
 }
  
 #column-1{left:0px;
@@ -268,7 +252,6 @@ width:580px;
 height:200px;
 border-radius:3px/3px;
 font-size:15px;
-font-family:verdana;
 color:#1b6192;
 padding-left:10px;
 padding-right:10px;
@@ -501,7 +484,6 @@ left:850px;
 width:220px;
 height:570px;
 position:absolute;
-font-family:verdana;
 color:#363030;
 font-size:15px;}
 .sideboxxx{top:70px;
@@ -509,7 +491,6 @@ left:850px;
 width:220px;
 height:570px;
 position:absolute;
-font-family:verdana;
 color:#363030;
 -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
 font-size:15px;}
@@ -518,7 +499,6 @@ left:850px;
 width:220px;
 height:460px;
 position:absolute;
-font-family:verdana;
 color:#363030;
 font-size:15px;}
 .sideboxxxx2{top:650px;
@@ -526,7 +506,6 @@ left:850px;
 width:220px;
 height:460px;
 position:absolute;
-font-family:verdana;
 color:#363030;
 -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
 font-size:15px;
@@ -1053,7 +1032,6 @@ border-radius:2px/2px;
 }
 .username{left:275px;
 font-size:20px;
-font-family:verdana;
 color:white;
 top:325px;
 height:50px;
@@ -1069,7 +1047,6 @@ width:70px;
 -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
 height:16px;
 font-size:16px;
-font-family:verdana;
 cursor:pointer;
  
 color:#868383;}
@@ -1082,7 +1059,6 @@ width:70px;
 -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
 height:16px;
 font-size:16px;
-font-family:verdana;
 cursor:pointer;
  
 color:#868383;}
@@ -1095,7 +1071,6 @@ width:70px;
 -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
 height:16px;
 font-size:16px;
-font-family:verdana;
 cursor:pointer;
 color:#868383;}
 .box14{top:375px;
@@ -1107,7 +1082,6 @@ width:70px;
 -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
 height:16px;
 font-size:16px;
-font-family:verdana;
 cursor:pointer;
 color:#868383;}
 select{top:375px;
@@ -1118,7 +1092,6 @@ width:110px;
 -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
 height:40px;
 font-size:16px;
-font-family:verdana;
 border:none;
 color:#868383;
 cursor:pointer;
@@ -1201,7 +1174,6 @@ border-color:red;
 border-style:solid;
 top:250px;
 color:red;
-font-family:verdana;
 padding:10px;
 font-size:15px;
 left:1130px;
@@ -1218,7 +1190,6 @@ border-color:red;
 border-style:solid;
 top:300px;
 color:red;
-font-family:verdana;
 padding:10px;
 font-size:15px;
 left:1130px;
@@ -1233,7 +1204,6 @@ border-color:red;
 border-style:solid;
 top:300px;
 color:red;
-font-family:verdana;
 padding:10px;
 font-size:15px;
 left:1130px;
@@ -1248,7 +1218,6 @@ border-color:red;
 border-style:solid;
 top:350px;
 color:red;
-font-family:verdana;
 padding:10px;
 font-size:15px;
 left:1130px;
@@ -1265,7 +1234,6 @@ border-color:red;
 border-style:solid;
 top:350px;
 color:red;
-font-family:verdana;
 padding:10px;
 font-size:15px;
 left:1130px;
@@ -1279,7 +1247,6 @@ border-color:red;
 border-style:solid;
 top:400px;
 color:red;
-font-family:verdana;
 padding:10px;
 font-size:15px;
 left:1130px;
@@ -1297,7 +1264,6 @@ border-color:red;
 border-style:solid;
 top:400px;
 color:red;
-font-family:verdana;
 padding:10px;
 font-size:15px;
 left:1130px;
@@ -1313,7 +1279,6 @@ border-color:red;
 border-style:solid;
 top:450px;
 color:red;
-font-family:verdana;
 padding:10px;
 font-size:15px;
 left:1130px;
@@ -1329,7 +1294,6 @@ border-color:red;
 border-style:solid;
 top:500px;
 color:red;
-font-family:verdana;
 padding:10px;
 font-size:15px;
 left:1130px;
@@ -1344,7 +1308,6 @@ border-color:red;
 border-style:solid;
 top:100px;
 color:red;
-font-family:verdana;
 padding:10px;
 font-size:15px;
 left:700px;
