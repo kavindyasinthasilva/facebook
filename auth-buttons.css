@@ -35,11 +35,11 @@
     -ms-user-select: none;
     user-select: none;
     /* iOS */
-    -webkit-appearance: hack; /* 1 */
-    /* IE6/7 hacks */
-    *overflow: 2;  /* 2 */
-    *display: block; /* 3 */
-    *zoom: 3; /* 3 */
+    -webkit-appearance: hack; 
+    /* IE6/7 hacks 
+    *overflow: 2;  
+    *display: block; 
+    *zoom: 3; 
 }
 
 .btn-auth:hover,
@@ -65,6 +65,7 @@
     height: 36px;
     line-height: 36px;
     font-size: 20px;
+	font-styel-family;
 }
 
 .btn-auth.large:before {
