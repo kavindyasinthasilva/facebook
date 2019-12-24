@@ -1,7 +1,7 @@
 
 ![github page bt kavindu](https://arief-jr.blogspot.com/2016/04/learn-with-github-basics-of-repository.html)
 
-(https://kavindyasinthasilva.github.io/facebook/.)
+
 
 
 ![ROX by Rollout](https://1ko9923xosh2dsbjsxpwqp45-wpengine.netdna-ssl.com/wp-content/themes/rollout/images/rollout_white_logo1.png)
