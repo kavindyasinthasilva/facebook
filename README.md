@@ -1,6 +1,4 @@
 
-![github page bt kavindu](https://arief-jr.blogspot.com/2016/04/learn-with-github-basics-of-repository.html)
-
 
 
 
