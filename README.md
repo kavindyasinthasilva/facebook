@@ -215,7 +215,7 @@ version:
     semver: Semver
 
 # Value when Condition is met
-value: String|Boolean|[SplitedValue]|[ScheduledValue] 
+
 ```
 ### Platform Schema
 The platform object indicates a specific targeting for a specific platform
