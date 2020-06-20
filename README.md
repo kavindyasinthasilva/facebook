@@ -6,7 +6,7 @@
 
 This is My First repositer. i published this at 2019. This is small Fb page clone .
 Thank you ......
-![Image](https://github.com/kavindyasinthasilva/hello-world/blob/master/EISeQlIW4AAgCh1.jpg)
+![Image](https://github.com/kavindyasinthasilva/facebook/blob/master/Screenshot/Screenshot%20(246).png)
 
 
 
